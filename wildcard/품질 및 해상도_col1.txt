@@ -1,0 +1,66 @@
+tag
+highres
+absurdres
+md5 mismatch
+lowres
+revision
+video
+duplicate
+resolution mismatch
+jpeg artifacts
+tall image
+textless version
+source smaller
+unfinished
+source larger
+image sample
+cropped
+ai-generated
+clip studio paint (medium)
+corrupted twitter file
+resized
+pixiv sample
+incredibly absurdres
+ai-assisted
+scan artifacts
+adversarial noise
+blender (medium)
+bad hands
+upscaled
+downscaled
+wide image
+gimp (medium)
+has downscaled revision
+crease
+alpha transparency
+lossy-lossless
+decensored
+flash
+ibispaint (medium)
+detexted
+aliasing
+wrong foot
+60+fps
+tumblr sample
+waifu2x
+twitter sample
+corrupted metadata
+bad arm
+transparent border
+e-hentai sample
+artstation sample
+bmp-to-png conversion
+deviantart sample
+yandere sample
+exif rotation
+emofuri
+ugoira conversion
+corrupted file
+bad neck
+sub-res
+animated png
+zbrush (medium)
+gif artifacts
+quality
+pixels
+bad aspect ratio

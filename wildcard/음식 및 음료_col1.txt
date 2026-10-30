@@ -1,0 +1,467 @@
+tag
+food
+fruit
+candy
+cake
+alcohol
+lollipop
+popsicle
+chocolate
+strawberry
+drink
+ice cream
+apple
+pocky
+bread
+carrot
+wagashi
+pumpkin
+tea
+donut
+peach
+cookie
+burger
+cherry
+coffee
+rice
+watermelon
+egg
+beer
+wine
+cake slice
+meat
+heart-shaped food
+dango
+ice cream cone
+noodles
+sake
+onigiri
+orange (fruit)
+grapes
+heart-shaped chocolate
+wine bottle
+spring onion
+macaron
+lemon
+mandarin orange
+tomato
+food on body
+milk
+pizza
+vegetable
+beer can
+chewing gum
+sandwich
+parfait
+sushi
+cheese
+candy apple
+banana
+pancake
+cupcake
+steamed bun
+cream
+soda can
+mochi
+chips (food)
+french fries
+bubble tea
+sake bottle
+birthday cake
+ramen
+pudding
+candy cane
+omelet
+ice cube
+bread slice
+bento
+dessert
+lemon slice
+shaved ice
+swirl lollipop
+sweets
+strawberry shortcake
+skewer
+whipped cream
+egg (food)
+pastry
+fried egg
+potato chips
+toast
+juice box
+curry
+crepe
+melting popsicle
+baguette
+blueberry
+chicken (food)
+taiyaki
+omurice
+sweet potato
+fish (food)
+sanshoku dango
+orange slice
+lettuce
+chocolate bar
+pie
+berry
+ketchup
+juice
+checkerboard cookie
+cotton candy
+cucumber
+oversized food
+boned meat
+ramune
+cup ramen
+tempura
+takoyaki
+icing
+fast food
+soup
+sausage
+monster energy
+box of chocolates
+pasta
+coca-cola
+soda
+makizushi
+soda bottle
+popcorn
+champagne
+pizza slice
+sundae
+pancake stack
+curry rice
+eggplant
+hot dog
+tropical drink
+energy drink
+watermelon slice
+dumpling
+crumbs
+potato
+cocktail
+honey
+watermelon bar
+easter egg
+snack
+corn
+seaweed
+berry (pokemon)
+butter
+bad food
+bag of chips
+shrimp tempura
+spaghetti
+kiwi (fruit)
+beans
+melon
+ice cream float
+mochi trail
+swiss roll
+coconut
+green tea
+wrapped candy
+steak
+chocolate cake
+syrup
+sugar cube
+onion
+red wine
+food art
+food bite
+radish
+salad
+marshmallow
+nissin cup noodle
+pineapple
+sprinkles
+whiskey
+melon bread
+fried chicken
+croissant
+beer bottle
+tamagoyaki
+cola
+lime (fruit)
+sauce
+roasted sweet potato
+broccoli
+kagami mochi
+japari bun
+jam
+soft serve
+ehoumaki
+cabbage
+kamaboko
+raspberry
+kabayaki (kabayaki eel)
+canned coffee
+chili pepper
+tart (food)
+bacon
+wafer stick
+gingerbread man
+fried rice
+bamboo shoot
+pet food
+golden apple
+groceries
+fruit on head
+muffin
+narutomaki
+banana peel
+strawberry cake
+lime slice
+strawberry slice
+crumbles
+udon
+yakisoba
+orange juice
+character-themed food
+tofu
+soy sauce
+senbei
+saury
+tomato slice
+persimmon
+chocolate syrup
+pocari sweat
+chicken leg
+kiwi slice
+daikon
+cherry tomato
+asahi breweries
+seed
+chocolate banana
+pear
+vodka
+eggshell
+champagne bottle
+waffle
+fruit cup
+cheese trail
+animal-themed food
+chocolate chip cookie
+jiaozi
+mint
+cofffee
+cream puff
+gomtang
+egg yolk
+oran berry
+tuna
+turkey (food)
+alcohol carton
+bell pepper
+pon de ring
+aburaage
+strong zero
+double scoop
+nori (seaweed)
+pepsi
+zuwai kani
+melon soda
+shish kebab
+ikayaki
+apple slice
+red bull
+liquor
+gelatin
+tako-san wiener
+milkshake
+tanghulu
+pomegranate
+nigirizushi
+garnish
+mayonnaise
+shaped lollipop
+hamburger steak
+oden
+tupet
+hot chocolate
+cheesecake
+chocolate cornet
+hotpot
+zouni soup
+mint chocolate
+coffee beans
+sakura mochi
+canned food
+strawberry parfait
+miso soup
+corn dog
+chestnut
+konpeitou
+apple pie
+jelly bean
+black tea
+pie slice
+sashimi
+mitarashi dango
+dr pepper
+chupa chups
+soba
+thumbprint cookie
+fruit tart
+heart-shaped lollipop
+nabe
+sitrus berry
+pretzel
+shu-mai
+loaf of bread
+hardboiled egg
+cream on body
+lemonade
+matcha (food)
+stew
+fried egg on toast
+mustard
+nut (food)
+ikura (food)
+breakfast
+teabag
+mont blanc (food)
+tsukimi dango
+croquette
+salt
+latte art
+cracker
+bread bun
+mooncake
+corn cob
+yakitori
+maratang
+banana slice
+taco
+chicken nuggets
+meatball
+chikuwa
+jack daniel's
+instant soba
+pumpkinspicelatte
+raw meat
+softboiled egg
+garlic
+food writing
+doritos
+orange peel
+beef
+turnip
+c.c. lemon
+pepperoni
+wrapped bento
+guarana antarctica
+sesame seeds
+waffle cone
+fruit bowl
+peanut
+green apple
+green pepper
+wafer
+instant udon
+nattou
+yakiniku
+tomato rice
+potato pot
+flour
+kiritanpo (food)
+blue hawaii
+yuzu (fruit)
+scone
+bitten apple
+chocolate donut
+spilled milk
+margherita pizza
+mapo tofu
+ham
+french cruller
+strawberry milk
+churro
+chocolate on hand
+too much food
+grilled eel
+white chocolate
+burnt food
+maple syrup
+maxim tomato
+souffle pancake
+sunflower seed
+oreo
+daifuku
+olive
+omelet tomato
+umibudou
+pineapple slice
+triple scoop
+omuretsu
+roe
+iced coffee
+shirako miso
+hishimochi
+jam (nandade)
+osechi
+dorayaki
+grilled fish
+meunhongcha
+batter
+shiitake
+okonomiyaki
+oyster
+coconut cup
+cracked egg
+apple rabbit
+pork
+char-siu
+gyuudon
+frappuccino
+pickle
+shiruko (food)
+candy bar
+dough
+yakisobapan
+wasabi
+takomeshi
+moomoo milk
+miso katsu
+watermelon seeds
+cucumber slice
+yogurt
+layer cake
+anpan
+katsu (food)
+fanta
+creature as food
+iced tea
+chopped spring onion
+cantaloupe
+mango
+vins-mousseux
+pringles
+icecake
+apple juice
+nissin donbei
+leppa berry
+ice cream bar
+scallop
+hanging food
+umaibou
+terimayo
+cereal
+red cucumber
+fruit punch
+dropped food
+blackberry (fruit)
+swiss cheese
+haagen-dazs
+kashiwa mochi (food)
+broken egg
+martini
+soybean
+christmas cake
+smoothie
+gunkanmaki
+red bean paste
+konnyaku (food)
+cinnamon stick

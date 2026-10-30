@@ -1,0 +1,185 @@
+tag
+blurry
+sparkle
+blurry background
+shadow
+glowing
+depth of field
+shaded face
+light particles
+steam
+outline
+smoke
+reflection
+lens flare
+backlighting
+white outline
+blurry foreground
+glint
+light rays
+falling petals
+chromatic aberration
+motion blur
+zoom layer
+electricity
+silhouette
+black border
+film grain
+air bubble
+halftone
+aura
+afterimage
+transparent
+explosion
+x-ray
+dappled sunlight
+ripples
+sunbeam
+dripping
+floating object
+drop shadow
+colorized
+blood splatter
+bokeh
+hatching (texture)
+sidelighting
+energy
+danmaku
+spotlight
+paint splatter
+fisheye
+glitch
+diffraction spikes
+embers
+reflective water
+stage lights
+neon trim
+bloom
+light trail
+sunburst
+high contrast
+falling feathers
+fine fabric emphasis
+sparks
+window shadow
+caustics
+pink border
+projected inset
+blue border
+inset border
+visible air
+eye trail
+purple fire
+dust cloud
+live2d
+colored shadow
+fireflies
+partially shaded face
+smoke trail
+blending
+red outline
+sparkling aura
+vignetting
+dithering
+through medium
+hologram
+blue outline
+splatter
+foam
+floating card
+dissolving
+flying paper
+yellow outline
+pink outline
+green border
+eye reflection
+muzzle flash
+contrast
+color contrast
+distortion
+glitter
+green fire
+condensation
+glowing hand
+crosshatching
+digital dissolve
+eyes in shadow
+refraction
+fading
+translucent
+iridescent
+flying button
+static
+double exposure
+gleam
+green outline
+screen light
+pink fire
+winking (animated)
+scanlines
+falling flower
+shattered
+crack of light
+fading border
+revealing layer
+blood spray
+underlighting
+cut-in
+glowing petals
+bishie sparkle
+ice crystal
+dars (recolors)
+orange outline
+camera flash
+heavy chromatic aberration
+red light
+fluff
+colored smoke
+overexposure
+non-circular lens flare
+newtype flash
+gradient border
+ground shatter
+disintegration
+zooming in
+heavy lens flare
+reflective surface
+color drain
+outer glow
+light in heart
+dim lighting
+vhs artifacts
+sound wave
+sun glare
+glowing clothes
+purple petals
+blue light
+wrinkled fabric
+optical illusion
+projectile trail
+bioluminescence
+moire
+blurry edges
+black fire
+smear frame
+inverted colors
+mirror image
+face in shadow
+glowing skin
+glowing hands
+semi-transparent
+persona eyes
+fake transparency
+soft focus
+green light
+app filter
+gauss <bokashi
+dots
+color halftone
+single flame
+shockwave
+attack trail
+headlight beam
+sparkling sweat
+laser pointer projection
+subsurface scattering

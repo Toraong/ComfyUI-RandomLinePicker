@@ -1,0 +1,473 @@
+tag
+phone
+cellphone
+smartphone
+microphone
+rope
+hand fan
+broom
+lantern
+machinery
+camera
+pen
+wand
+folding fan
+cable
+pom pom (cheerleading)
+controller
+id card
+key
+unworn eyewear
+computer
+paintbrush
+handcuffs
+monitor
+parasol
+pencil
+television
+game controller
+handheld game console
+syringe
+chalkboard
+scissors
+whistle
+clipboard
+laptop
+cane
+notebook
+radio antenna
+microphone stand
+nintendo switch
+computer keyboard
+tablet pc
+pocket watch
+lock
+hose
+red rope
+test tube
+fishing rod
+folded fan
+glowstick
+remote control
+skates
+wrench
+briefcase
+game console
+calligraphy brush
+megaphone
+stylus
+needle
+lifebuoy
+digital media player
+shovel
+speaker
+flask
+electric fan
+riding crop
+binoculars
+stethoscope
+computer mouse
+ladder
+quill
+light bulb
+paddle
+safety pin
+soccer ball
+padlock
+mallet
+vending machine
+eraser
+surfboard
+whisk
+torch
+nail (hardware)
+walkie-talkie
+drawing tablet
+comb
+alarm clock
+watering can
+racket
+dynamax band
+video camera
+d-pad
+flip phone
+marker
+ink
+hair brush
+magnifying glass
+mimikaki
+baseball mitt
+screen
+mini-hakkero
+air conditioner
+notepad
+intravenous drip
+pointer
+wheelchair
+paint palette
+ritual baton
+tennis racket
+skateboard
+drill
+rotom phone
+kitchen knife
+mechanical pencil
+stove
+holographic interface
+weighing scale
+phonograph
+three-dimensional maneuver gear
+lighter
+vaulting horse
+gamepad
+flashlight
+globe
+dumbbell
+winding key
+iphone
+bookmark
+hand net
+crime prevention buzzer
+video game
+dowsing rod
+traffic cone
+thread
+duster
+round-bottom flask
+playstation controller
+canvas (object)
+snorkel
+pendulum
+analog clock
+machine
+corded phone
+milking machine
+chalk
+bamboo broom
+butterfly net
+camcorder
+radio
+inkwell
+spray can
+ruler
+easel
+coin on string
+screwdriver
+hourglass
+telescope
+crt
+pickaxe
+crayon
+electric plug
+playstation portable
+screw
+pencil case
+tennis ball
+saddle
+ink tank (splatoon)
+cd
+kine
+thermometer
+crystal ball
+hair dryer
+tools
+boxcutter
+art brush
+grill
+conductor baton
+blood bag
+sticky note
+duel disk
+nib pen (object)
+penlight (glowstick)
+tape measure
+nintendo ds
+procreate (software)
+antique phone
+ipod
+game boy
+ultra ball
+kaleidostick
+whiteboard
+folder
+searchlight
+golf club
+jetpack
+makeup brush
+first aid kit
+horseshoe
+record
+exercise ball
+stopwatch
+log pose
+pastry bag
+weapon case
+joy-con
+shopping cart
+fishing line
+wheelbarrow
+night vision device
+joystick
+muzzle (mask)
+smartphone case
+star wand
+line (naver)
+cash register
+vacuum cleaner
+microwave
+arcade cabinet
+nintendo 3ds
+compass
+oar
+holographic monitor
+rotary phone
+paint can
+pregnancy test
+tripod
+hisuian poke ball
+bolt (hardware)
+sewing needle
+scalpel
+digital clock
+erlenmeyer flask
+audio jack
+weights
+kickboard
+selfie stick
+balance scale
+jump rope
+duct tape
+flat screen tv
+large syringe
+throat microphone
+beaker
+magnet
+spray paint
+mousetrap
+crutch
+circular saw
+pin
+barbell
+headphones removed
+wireless earphones
+dualshock
+table tennis paddle
+digital thermometer
+game boy (original)
+usb
+trowel
+chisel
+traffic baton
+satellite dish
+iv stand
+barcode scanner
+oxygen mask
+stapler
+mousepad (object)
+pen in pocket
+cocktail shaker
+cue stick
+toolbox
+multiple monitors
+paperclip
+pitchfork
+ring-con
+board eraser
+heater
+razor
+boombox
+radar
+coffee maker
+fire extinguisher
+poketch
+medicine
+fish hook
+battery
+computer tower
+condenser unit
+earphones removed
+cassette player
+pliers
+rubber band
+mortar (bowl)
+turntable
+engine
+paint tube
+white headphones
+sheikah slate
+ipad
+knitting needle
+binder
+compact (cosmetics)
+parachute
+relay baton
+stasis tank
+vintage microphone
+spool
+camera phone
+oxygen tank
+paint roller
+matches
+cracked screen
+cassette tape
+credit card
+electrodes
+detonator
+studio microphone
+yoga mat
+rotom dex
+ipod nano
+robotic vacuum cleaner
+light switch
+punching bag
+gauge
+portable stove
+colored pencil
+giant brush
+harisen
+armillary sphere
+pull cord
+playstation vita
+famicom
+pincushion
+blue screen of death
+sewing pin
+pokedex
+bear trap
+animation paper
+seven-segment display
+arcade stick
+digital walkman
+hoe
+pop filter
+placard
+typewriter
+charger
+breast pump
+game cartridge
+stereo
+transformer
+vs seeker
+ceiling fan
+luxury ball
+raising heart (standby mode)
+wii
+lasso
+piston
+payphone
+tenbou
+playstation 4
+horizontal bar
+clock hands
+rake
+pangu terminal (wuthering waves)
+walkman
+sewing machine
+badminton racket
+floppy disk
+circuit board
+slot machine
+playstation 5
+master ball
+railroad signal
+power strip
+set square
+hypnosis app
+minecraft pickaxe
+digivice
+stepladder
+skis
+claw hammer
+fishing net
+3gs
+phone with ears
+smartwatch
+super famicom
+spring (object)
+videocassette
+tweezers
+pestle
+wireless
+game boy advance
+pokegear
+test tube rack
+vernier thrusters
+playstation 2
+wii remote
+airpods
+conveyor belt
+walkman nw-s203f
+incoming call
+single-lens reflex camera
+gymnastics ribbon
+nut (hardware)
+xbox 360
+stationery
+wacom
+marching band baton
+trim brush
+wood carving tool
+gamecube
+computer chip
+gavel
+internet explorer
+cd player
+treadmill
+binaural microphone
+security camera
+scuba tank
+adjustable wrench
+omnitrix
+ink stamp
+wooden pencil
+cable tie
+exercise machine
+repair bucket
+shears
+barre
+webcam
+akg
+akg k-series headphones
+macintosh
+poi (goldfish scoop)
+rebreather
+razor blade
+blender (object)
+top-load washing machine
+sega dreamcast
+game boy color
+hacksaw
+electric kettle
+zippo lighter
+clapperboard
+alarm siren
+staple
+love ball
+arc reactor
+mixing console
+projector
+hack (apex legends)
+kiroshi
+printer
+calculator
+coffee grinder
+valve
+juggling club
+pedestrian lights
+pip boy
+handheld electric fan
+switch
+super famicom gamepad
+japanese saw
+playstation 3
+jerry can
+painttool sai
+solar panel
+mozilla firefox
+windows 7
+gardening shears
+digital camera
+ribbon baton
+ski pole
+diving regulator
+palette knife

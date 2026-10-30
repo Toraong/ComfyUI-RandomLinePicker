@@ -1,0 +1,163 @@
+tag
+indoors
+window
+curtains
+wooden floor
+stairs
+tiles
+door
+classroom
+tile floor
+tatami
+bedroom
+bathroom
+sliding doors
+checkered floor
+tile wall
+train interior
+kitchen
+stage
+open door
+doorway
+shop
+ceiling
+library
+floor
+shouji
+bar (place)
+hallway
+stained glass
+locker room
+restaurant
+car interior
+reflective floor
+balcony
+church
+cafe
+office
+shower (place)
+wooden wall
+gym storeroom
+open window
+stone floor
+gym
+cockpit
+fireplace
+scarlet devil mansion
+round window
+loaded interior
+cracked wall
+convenience store
+lattice
+brick floor
+aquarium
+sauna
+messy room
+windowsill
+infirmary
+toilet stall
+wallpaper (object)
+cracked floor
+broken window
+hospital
+elevator
+casino
+public restroom
+fitting room
+voile
+interior
+prison
+bathhouse
+dungeon
+tile ceiling
+rei no pool
+prison cell
+vehicle interior
+living room
+movie theater
+fusuma
+dark room
+arcade
+changing room
+mansion
+stage curtains
+bus interior
+hangar
+spacecraft interior
+glass door
+bars
+laboratory
+wet floor
+greenhouse
+bakery
+underground
+entrance
+kindergarten
+witch's labyrinth
+broken wall
+subway
+supermarket
+ddolbang
+hotel room
+love hotel
+wooden door
+escalator
+airplane interior
+otaku room
+kourindou
+laundromat
+karaoke box
+wooden ceiling
+tavern
+in locker
+stairwell
+hole in wall
+maid cafe
+wainscoting
+spiral staircase
+izakaya
+vent (object)
+terakoya
+desktop (computing)
+bio lab
+muntins
+window fog
+display
+window shutter
+ryokan
+diner
+skylight
+garage
+in crane game
+theater
+flower shop
+corner
+mall
+chireiden
+nightclub
+museum
+clubroom
+ferris wheel interior
+subway station
+familymart
+dressing room
+hotel
+courtroom
+bookstore
+mitsukoshi (department store)
+checkered wall
+hakugyokurou
+warehouse
+clothes shop
+studio
+elevator door
+recording studio
+dance studio
+tank interior
+dining room
+palace
+cabin
+refrigerator interior
+cubicle
+theater seating
+cafeteria

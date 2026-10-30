@@ -1,0 +1,472 @@
+tag
+weapon
+sword
+gun
+knife
+katana
+staff
+polearm
+sheath
+rifle
+handgun
+shield
+sheathed
+spear
+bow (weapon)
+ship turret
+arrow (projectile)
+assault rifle
+cannon
+holster
+scythe
+dagger
+axe
+scabbard
+hammer
+huge weapon
+submachine gun
+baseball bat
+sniper rifle
+torpedo
+explosive
+whip
+blood on weapon
+revolver
+machine gun
+quiver
+energy sword
+planted sword
+trident
+bullet
+shotgun
+bolt action
+glowing weapon
+scope
+unsheathed
+rapier
+kunai
+energy gun
+lance
+magazine (weapon)
+grenade
+bullpup
+chainsaw
+laevatein (touhou)
+club (weapon)
+shell casing
+excalibur (fate/stay night)
+gae bolg (fate)
+rod of remorse
+greatsword
+glowing sword
+mage staff
+short sword
+rocket launcher
+shuriken
+beam rifle
+claw (weapon)
+sword of hisou
+kalashnikov rifle
+bomb
+suppressor
+arm blade
+anti-materiel rifle
+battle axe
+multiple weapons
+m4 carbine
+mace
+gatling gun
+naginata
+missile
+crossbow
+multiple swords
+blood on knife
+magical musket
+raising heart
+sig sauer
+scissor blade (kill la kill)
+halberd
+wooden sword
+gun sling
+torpedo tubes
+spiked club
+master sword
+bardiche (nanoha)
+torpedo launcher
+h&k hk416
+flaming weapon
+ammunition
+kanabou
+saw
+adapted turret
+battle rifle
+ootachi
+alternate weapon
+buster sword
+ammunition belt
+hauchiwa
+antique firearm
+lord camelot (fate)
+excalibur morgan (fate)
+shoulder cannon
+jumpy dumpty
+smoking barrel
+m1911
+broken weapon
+fuuin no tsue
+musou isshin (genshin impact)
+light machine gun
+cleaver
+lightsaber
+flaming sword
+wakizashi
+ar-15
+shinai
+bayonet
+glaive (polearm)
+aestus estus
+bo staff
+pump action
+saber (weapon)
+glock
+tantou
+missile pod
+grenade launcher
+nata (tool)
+crowbar
+energy cannon
+beretta 92
+knife sheath
+tonfa
+h&k ump
+falchion (fire emblem)
+gunblade
+caliburn (fate)
+shotgun shell
+splattershot (splatoon)
+nail bat
+sickle
+bokken
+p90
+luminosite eternelle
+throwing knife
+firelock
+combat knife
+baton (weapon)
+ball and chain (weapon)
+walther
+hook
+stiletto (weapon)
+war hammer
+la grondement du haine
+keyblade
+broken sword
+kanshou & bakuya (fate)
+mg42
+tank turret
+maria the ripper
+optical sight
+flamethrower
+m16
+ambrosia (dungeon meshi)
+ray gun
+bipod
+brass knuckles
+paralyzer
+lance of longinus (evangelion)
+gun on back
+musket
+clarent (fate)
+chakram
+lead pipe
+bishamonten's spear
+cartridge
+whip sword
+desert eagle
+vertical foregrip
+yumi (bow)
+minigun
+ak-47
+energy blade
+anti-aircraft gun
+mauser 98
+gae dearg (fate)
+beam cannon
+mosin-nagant
+black keys (type-moon)
+flintlock
+aegis sword (xenoblade)
+evoker
+drum magazine
+z saber
+grenade pin
+control rod (touhou)
+crescent rose
+hashitsuki nata
+depth charge
+laser sight
+cute weapon
+ruyi jingu bang
+energy weapon
+beretta 1301
+bident
+ballistic shield
+metal baseball bat
+heavenly boat maanna
+sword of st. catherine (fate)
+kriss vector
+hylian shield
+spiked ball and chain
+eotech
+hoshi no tsue
+graf eisen
+gae buidhe (fate)
+artillery
+staff of selection (fate)
+schwertkreuz
+nameless dagger (fate)
+heavy machine gun
+boomerang
+nunchaku
+dragonslayer (sword)
+rpg (weapon)
+funnels (gundam)
+tank shell
+doujigiri yasutsuna (fate)
+myrtenaster
+ammunition box
+m16a1
+foregrip
+dynamite
+railgun
+cutlass
+sledgehammer
+staff of homa (genshin impact)
+arisaka
+bazooka (gundam)
+machete
+sword of the creator
+sig 556
+moriya's iron rings
+lunatic gun
+crystal sword
+throwing needles
+double blade
+mauser c96
+concealed weapon
+flail
+h&k mp5
+sword writing
+h&k g11
+gunpod
+spiked knuckles
+ak-12
+masamune (ff7)
+crosier
+spiked mace
+thompson submachine gun
+paw stick
+harpoon
+avalon (fate)
+tachi (weapon)
+h&k mp7
+sig mpx
+pgm hecate ii
+song of broken pines (genshin impact)
+walther wa 2000
+yamato (sword)
+cat o' nine tails
+buckler
+ninjatou
+long sword
+luger p08
+dragunov svd
+an-94
+crossed swords
+smoke grenade
+shield module
+silence glaive
+virtuous contract
+laevatein (nanoha)
+monado
+zanpakutou
+meslamtaea (fate)
+lever action
+scimitar
+primordial jade winged-spear (genshin impact)
+splat roller (splatoon)
+m14
+underbarrel grenade launcher
+sig p220/p226
+m1903 springfield
+particle cannon case
+mp40
+galaxia (sword)
+revolver knuckle
+barrett m82
+bolverk
+guan dao
+power fist
+jian (weapon)
+raising heart (accel mode)
+slingshot (weapon)
+kingdom key
+compound bow
+fn scar
+two-handed sword
+ea (fate)
+stake
+red lightsaber
+mac-10/11
+bolter
+suomi kp/-31
+saw cleaver
+uzi
+lee-enfield
+lanchester smg
+tsuba (guard)
+enkidu (weapon) (fate)
+photon ray (fate)
+spas-12
+cheytac m200
+sig mcx
+spike ball
+rpg-7
+h&k psg1
+inkbrush (splatoon)
+splattershot jr. (splatoon)
+browning m2
+folding stock
+mine (weapon)
+chainsword
+stun gun
+spacecraft turret
+rengoku (sword) (fate)
+prydwen (fate)
+flashbang
+airgetlam (fate)
+jamadhar
+wooden staff
+bakuzan
+splat charger (splatoon)
+ppsh-41
+l85
+zweihander
+h&k g36
+h&k p30
+ak-74
+muzzle device
+lambent light
+hope's dusk (apex legends)
+rhongomyniad (fate)
+sword of dios
+pile bunker
+fn fal
+ornate weapon
+h&k g3
+famas
+howa type 89
+akm
+paracelsus (guilty gear)
+fin funnels
+bola (weapon)
+cross calibur (fate)
+sig 516
+moon stick (sailor moon)
+ragnell
+hatchet (axe)
+umbrella gun
+blue lightsaber
+saya (scabbard)
+chokutou
+calamity queller (genshin impact)
+thompson/center contender
+h&k usp
+excalibur (fate/prototype)
+dynamo roller (splatoon)
+steel ball (jojo)
+yume no tsue
+cs/ls06
+clima-tact
+volumen hydragyrum (fate)
+walther ppk
+rifle cartridge
+ember celica (rwby)
+ai arctic warfare
+manually-operated mounted gun
+bren lmg
+adapted weapon
+rebellion (sword)
+engulfing lightning (genshin impact)
+yari
+splat bomb (splatoon)
+eighteen (fate)
+kukri
+azrael (fate)
+double-barreled shotgun
+e-liter 4k (splatoon)
+broken bottle
+stielhandgranate
+aks-74u
+kusarigama
+tokarev tt-33
+needle sword
+n-zap (splatoon)
+tnt
+bardiche (zanber form) (nanoha)
+nail (hollow knight)
+energy shield
+gambol shroud
+minecraft sword
+fn five-seven
+kama (weapon)
+em-2
+b3 wingman
+kodachi
+autocannon
+amos' bow (genshin impact)
+splat dualies (splatoon)
+riot shield
+energy arrow
+iwi tavor
+planted knife
+sai (weapon)
+s&w m&p
+laser-lance
+wooden shield
+vortex vanquisher (genshin impact)
+obsidian slasher
+welrod
+stg44
+h&k mp5k
+double-sided axe
+spiked bat
+qbz-95
+rakuyo (bloodborne)
+vasavi shakti (fate)
+arm mounted weapon
+heavy splatling (splatoon)
+boys anti tank rifle
+m1 garand
+ak-74m
+tri rod
+30-06
+garnet rod
+nanatsu-yoru
+panzerfaust
+mimi-chan
+repeating crossbow
+javelin (spear)
+bardiche (standby form) (nanoha)
+war fan
+m249 saw
+twinmyniad (fate)
+cross mirage
+arondight (fate)
+hilt
+steyr aug
+m60 (machine gun)
+ebira
+tri-stringer (splatoon)
+octo shot (splatoon)
+flare

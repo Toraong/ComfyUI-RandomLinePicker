@@ -1,0 +1,68 @@
+tag
+book
+paper
+open book
+card
+photo (object)
+scroll
+book stack
+poster (object)
+letter
+envelope
+map
+newspaper
+shikishi
+calendar (object)
+magazine (object)
+manga (object)
+sketchbook
+nengajou
+menu
+love letter
+sheet music
+tanzaku
+pornography
+sorcerer's sutra scroll
+grimoire
+paper stack
+papers
+newtype
+omikuji
+ticket
+note
+wanted poster
+grimoire of alice
+wax seal
+map (object)
+hanging scroll
+diploma
+new horizon
+crumpled paper
+graph
+academic test
+bible (object)
+postage stamp
+pages
+test score
+notes
+pile of books
+diary
+blueprint (object)
+tome of the night sky
+death note (object)
+photo album
+bunbunmaru
+postcard
+textbook
+mail
+too many books
+animedia
+carte
+flyer
+torn paper
+yaoi (object)
+poem
+business card
+receipt
+love live! days: love live! general magazine
+marriage certificate (object)
